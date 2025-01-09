@@ -1,8 +1,8 @@
 
-export default function AboutPage() {
-    console.log('something')
+export default function MealsPage() {
+   
     return <main>
         <h1>
-        About U
+        Meals Page
     </h1>
     </main> }
