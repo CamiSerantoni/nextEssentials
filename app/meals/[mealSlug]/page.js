@@ -1,4 +1,4 @@
-export default function MealsBlogPage({params}) {
+export default function MealsDetailsPage({params}) {
     console.log('something')
     return <main>
         <h1>
